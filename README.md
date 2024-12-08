@@ -1,5 +1,3 @@
-# Application In Real-Time
+# Gracias por esos buenos momentos Profe aprendi mucho. 
 
-![Docker running](img/Docker.png)
-![Docker running](img/Page.png)
-![Docker running](img/UnitTest.jpeg)
+
